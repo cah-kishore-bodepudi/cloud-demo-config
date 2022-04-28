@@ -1,3 +1,2 @@
-git:
-  pseudo:
-    property: Property value loaded from git:
+foogit: Foo value from git
+doogit: Doo value from git
